@@ -1,18 +1,11 @@
+![logo](https://github.com/s17200/s17200/blob/main/helloworld_finished.png)
 <h1 align="center">Hi 👋, I'm Saurabh Sonvane</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="left">A passionate Software Developer from India</h3>
 <img align="center" alt="coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s17200" alt="s17200" /></a> </p>
-
-- 🔭 I’m currently working on [Shop.com](https://bright-halva-d71d53.netlify.app/project.html)
-
-- 🌱 I’m currently learning **Full Stack Web**
-
-- 💬 Ask me about **java,DSA,javascript,css,react**
-
-- 📫 How to reach me **sonvanesaurabh7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
