@@ -19,6 +19,10 @@
 - 💬 Ask me about **java,DSA,javascript,css,react**
 
 - 📫 How to reach me **sonvanesaurabh7@gmail.com**
+  
+- 📄 Check [Resume](https://drive.google.com/file/d/1q4LJL2PowS-zfAdwEUfEZeGtImnPQou-/view?usp=sharing)
+
+- 📄 Know more about me and my work [Portfolio](https://portfolio-woad-kappa-49.vercel.app/)
     
 </div>
 
