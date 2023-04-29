@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sonvanesaurabh7@gmail.com**
   
-- 📄 Check [Resume](https://drive.google.com/file/d/1q4LJL2PowS-zfAdwEUfEZeGtImnPQou-/view?usp=sharing)
+- 📄 Check [Resume](https://drive.google.com/file/d/1jtQpHv97A5hAfkMpw5gfIPDj27fRx3YF/view?usp=sharing)
 
 - 📄 Know more about me and my work [Portfolio](https://portfolio-woad-kappa-49.vercel.app/)
     
