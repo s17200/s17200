@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s17200&label=Profile%20views&color=0e75b6&style=flat" alt="s17200" /> </p>
 
-- 🔭 I’m currently working on [Trivago.com](https://trivago-clone-s17200.netlify.app/)
+- 🔭 I’m currently working on [Placeprep.com](https://place-prep-com.vercel.app/HomePage/index.html)
 
 - 🌱 I’m currently learning **Full Stack Web**
 
