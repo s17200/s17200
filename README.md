@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **sonvanesaurabh7@gmail.com**
   
-- 📄 Check [Resume](https://drive.google.com/file/d/1JdDk8i5Xl4Vi34wpwb0GI_nZSehxKtAR/view?usp=sharing)
+- 📄 Check [Resume](https://onedrive.live.com/?authkey=%21AFI6oDqVOwNDUv0&cid=15CB20DDD092BC4A&id=15CB20DDD092BC4A%21997&parId=root&o=OneUp)
 
-- 📄 Know more about me and my work [Portfolio](https://s17200.github.io/)
+- 📄 Know more about me and my work [Portfolio](https://saurabh-sonvane-portfolio.vercel.app)
     
 </div>
 
