@@ -22,7 +22,7 @@
   
 - 📄 Check [Resume](https://onedrive.live.com/?authkey=%21AFI6oDqVOwNDUv0&cid=15CB20DDD092BC4A&id=15CB20DDD092BC4A%211005&parId=root&o=OneUp)
 
-- 📄 Know more about me and my work [Portfolio](https://saurabh-sonvane-portfolio.vercel.app)
+- 📄 Know more about me and my work [Portfolio](https://s17200-portfolio.vercel.app)
     
 </div>
 
