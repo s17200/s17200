@@ -22,7 +22,7 @@
   
 - 📄 Check [Resume](https://drive.google.com/drive/folders/1F-SpOg_Fq8ILpzlSgrVWBuboyyRYM3xh?usp=sharing)
 
-- 📄 Know more about me and my work [Portfolio](https://saurabh-portfolio-e85lwiv30-s17200.vercel.app/)
+- 📄 Know more about me and my work [Portfolio](https://s17200-portfolio.vercel.app/)
     
 </div>
 
